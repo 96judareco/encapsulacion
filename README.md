@@ -1,0 +1,2 @@
+# encapsulacion
+metodo de encapsulacion
